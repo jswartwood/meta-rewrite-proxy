@@ -1,17 +1,17 @@
 {
-    "name" : "og-rewrite-proxy",
+    "name" : "meta-rewrite-proxy",
     "version": "0.0.1",
     "engines": { "node": ">= 0.4.0" },
-    "description": "Sets up a proxy to rewrite open graph meta tags to bring pages within your app's domain.",
+    "description": "Sets up a proxy to rewrite meta tags to bring pages within your app's domain. Useful to leverage existing meta data and url locations while creating new (namespaced) Facebook apps.",
     "author": "Jacob Swartwood",
-    "keywords": ["facebook", "proxy", "open-graph"],
-    "main" : "lib/og-rewrite-proxy.js",
+    "keywords": ["meta", "proxy", "facebook", "open-graph"],
+    "main" : "lib/meta-rewrite-proxy.js",
     "repository": {
         "type": "git",
-        "web": "http://github.com/jswartwood/og-rewrite-proxy.git"
+        "web": "http://github.com/jswartwood/meta-rewrite-proxy.git"
     },
     "bugs": {
-        "web": "http://github.com/jswartwood/og-rewrite-proxy/issues"
+        "web": "http://github.com/jswartwood/meta-rewrite-proxy/issues"
     },
     "licenses" : [
         { "type" : "MIT",  "url" : "" }
