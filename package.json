@@ -1,6 +1,6 @@
 {
     "name" : "meta-rewrite-proxy",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": { "node": ">= 0.4.0" },
     "description": "Sets up a proxy to rewrite meta tags to bring pages within your app's domain. Useful to leverage existing meta data and url locations while creating new (namespaced) Facebook apps.",
     "author": "Jacob Swartwood",
