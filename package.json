@@ -8,10 +8,10 @@
     "main" : "lib/meta-rewrite-proxy.js",
     "repository": {
         "type": "git",
-        "web": "http://github.com/jswartwood/meta-rewrite-proxy.git"
+        "url": "http://github.com/jswartwood/meta-rewrite-proxy.git"
     },
     "bugs": {
-        "web": "http://github.com/jswartwood/meta-rewrite-proxy/issues"
+        "url": "http://github.com/jswartwood/meta-rewrite-proxy/issues"
     },
     "licenses" : [
         { "type" : "MIT",  "url" : "http://jacob.swartwood.info/license/" }
